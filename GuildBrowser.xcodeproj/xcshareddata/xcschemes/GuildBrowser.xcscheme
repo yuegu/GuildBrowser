@@ -38,6 +38,16 @@
                ReferencedContainer = "container:GuildBrowser.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2CEA0089165095D800518751"
+               BuildableName = "GuildBrowserLogicTests.octest"
+               BlueprintName = "GuildBrowserLogicTests"
+               ReferencedContainer = "container:GuildBrowser.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
